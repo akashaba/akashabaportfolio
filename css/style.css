@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root{
-   --yellow:#ffcc0d;
+   --yellow:#c7b267;
    --black:#000;
    --white:#fff;
    --light-bg:#eee;
@@ -186,6 +186,7 @@ section{
    height: 65rem;
    padding:2rem;
    border:var(--border-bold);
+   /* border-radius: 10%; */
 }
 
 .home .content{
@@ -283,10 +284,10 @@ section{
    width: 80%;
 }
 .about .skills .progress .bar:nth-child(5) h3{
-   width: 60%;
+   width: 70%;
 }
 .about .skills .progress .bar:nth-child(6) h3{
-   width: 50%;
+   width: 65%;
 }
 
 .about .edu-exp .row{
